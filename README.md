@@ -4,7 +4,7 @@
 
 ## About
  - This is a weather website.
- -  Pure HTML, CSS, JavaScript used.
+ -  Pure HTML, CSS, JavaScript, API are used.
  
  ## To see the project
 [Weather website](http://127.0.0.1:5500/weather/index.html)
